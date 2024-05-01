@@ -1,4 +1,4 @@
-## Hello World! me chamo César Félix 🖐🏼
+## Hello World! Meu nome é César Félix 🖐🏼
 --- 
 ## Sou estudante de ADS e instrutor de informática. Atualmente busco minha primeira oportunidade na área da programação.
 
