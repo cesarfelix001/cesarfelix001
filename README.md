@@ -1,7 +1,7 @@
 ## Olá! Sou o César Félix 🖐🏼
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](www.linkedin.com/in/césarfélix)
+)](https://www.linkedin.com/in/c%C3%A9sarf%C3%A9lix/)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 )](cesarfelix340@gmail.com)
 
