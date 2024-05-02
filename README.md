@@ -13,7 +13,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=cesarfelix001&theme=synthwave&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cesarfelix001&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## Tecnologias que utilizo em meus projetos
+## 🧑🏽‍💻 Tecnologias que utilizo em meus projetos
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
