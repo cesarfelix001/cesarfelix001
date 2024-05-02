@@ -13,34 +13,34 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=cesarfelix001&theme=synthwave&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cesarfelix001&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=cesarfelix001&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-
-
-
 ## Tecnologias que utilizo em meus projetos
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![visual studio code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) 
 
 <!-- GIF -->
 <p align="left">
   <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
 </p>
 
-## Estudando 📚
+## 💻 Ferramentas 
+![visual studio code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) 
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) 
+
+![18a4949fc9c8067172d3b96e302e7097](https://github.com/cesarfelix001/cesarfelix001/assets/144870417/e933c06e-b45e-4e9f-9736-bcd242131a10)
+
+## 📚 Estudando 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) 
 
 ![f0f0d932d6e39c7af5aa305cbd8da735](https://github.com/cesarfelix001/cesarfelix001/assets/144870417/7085ecc7-c4d3-426d-849f-b238e5e5299c)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=cesarfelix001&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
