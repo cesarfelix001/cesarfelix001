@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=9400D3&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Cesar+Felix;I'm+25+years+old;I'm+from+Brazil)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=A020F0&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Cesar+Felix;I'm+25+years+old;I'm+from+Brazil)](https://git.io/typing-svg)
 
 --- 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cesarfelix001&color=yellow" alt="Profile views" /> </p>
