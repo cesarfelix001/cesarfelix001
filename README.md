@@ -5,15 +5,8 @@
 
 ## Sou estudante de ADS e instrutor de informática. Atualmente busco minha primeira oportunidade na área da programação. 
 
-<a  href="https://www.linkedin.com/in/césarfélix/" target=_blank>
-<img align="center"  height="80" width="80" src="https://github.com/cesarfelix001/cesarfelix001/assets/44561610/bc26a6f8-f0d3-4f15-82e1-55680c48f269">
-</a>
-
-
-<a href="mailto:cmp.1a.cesarfelix340@gmail.com">
-<img align="center"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2856fdde-3200-4398-8290-a0e45d3a35a0">
-</a>
-
+<a  href="https://www.linkedin.com/in/césarfélix/" target=_blank>![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+<a href="mailto:cesarfelix340@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=cesarfelix001&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false)<br/>
