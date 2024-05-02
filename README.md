@@ -3,7 +3,7 @@
 --- 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cesarfelix001&color=yellow" alt="Profile views" /> </p>
 
-## Sou estudante de ADS e instrutor de informática. Atualmente busco minha primeira oportunidade na área da programação.
+## Sou estudante de ADS e instrutor de informática. Atualmente busco minha primeira oportunidade na área da programação. 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/c%C3%A9sarf%C3%A9lix/)
@@ -12,7 +12,17 @@
 [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
 )](55+21966655519)
 
-![César Félix GitHub stats](https://github-readme-stats.vercel.app/api?username=Cesarfelix001&show_icons=true&theme=synthwave)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=cesarfelix001&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=cesarfelix001&theme=synthwave&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=cesarfelix001&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=cesarfelix001&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+
+
 
 ## Tecnologias que utilizo em meus projetos
 
@@ -32,6 +42,11 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) 
 
 ![f0f0d932d6e39c7af5aa305cbd8da735](https://github.com/cesarfelix001/cesarfelix001/assets/144870417/7085ecc7-c4d3-426d-849f-b238e5e5299c)
+
+### ✍ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
 
 
 
