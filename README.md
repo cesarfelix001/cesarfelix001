@@ -1,6 +1,7 @@
 ## Hello World! Meu nome é César Félix 🖐🏼
 --- 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cesarfelix001&color=yellow" alt="Profile views" /> </p>
+
 ## Sou estudante de ADS e instrutor de informática. Atualmente busco minha primeira oportunidade na área da programação.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
