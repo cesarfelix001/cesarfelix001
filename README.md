@@ -5,8 +5,15 @@
 
 ## Sou estudante de ADS e instrutor de informática. Atualmente busco minha primeira oportunidade na área da programação. 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](https://www.linkedin.com/in/c%C3%A9sarf%C3%A9lix/)
+<a  href="https://www.linkedin.com/in/césarfélix/" target=_blank>
+<img align="center"  height="80" width="80" src="https://github.com/cesarfelix001/cesarfelix001/assets/44561610/bc26a6f8-f0d3-4f15-82e1-55680c48f269">
+</a>
+
+
+<a href="mailto:cmp.1a.cesarfelix340@gmail.com">
+<img align="center"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2856fdde-3200-4398-8290-a0e45d3a35a0">
+</a>
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=cesarfelix001&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -35,6 +42,7 @@
 ![417d808a44607a7106e9d336b33ebadc](https://github.com/cesarfelix001/cesarfelix001/assets/144870417/f1fc29d8-184d-4d91-b03c-1e8ba08b6f67)
 
 ## 📚 Estudando 
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
