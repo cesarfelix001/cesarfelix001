@@ -29,7 +29,7 @@
 ![visual studio code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) 
 
-![18a4949fc9c8067172d3b96e302e7097](https://github.com/cesarfelix001/cesarfelix001/assets/144870417/e933c06e-b45e-4e9f-9736-bcd242131a10)
+![799e0d7779f6ea6c3a89885ff60c55af](https://github.com/cesarfelix001/cesarfelix001/assets/144870417/41bedc9b-da20-4560-8454-5a8ce668f63f)
 
 ## 📚 Estudando 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
