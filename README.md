@@ -7,10 +7,6 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/c%C3%A9sarf%C3%A9lix/)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-)](cesarfelix340@gmail.com)
-[![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
-)](55+21966655519)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=cesarfelix001&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false)<br/>
