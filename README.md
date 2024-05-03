@@ -3,7 +3,7 @@
 --- 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cesarfelix001&color=yellow" alt="Profile views" /> </p>
 
-## Sou estudante de ADS e instrutor de informática. Atualmente busco minha primeira oportunidade na área da programação. 
+## Sou estudante de ADS e instrutor de informática. Atualmente busco minha primeira oportunidade na área da programação.
 
 <a  href="https://www.linkedin.com/in/césarfélix/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 <a href="mailto:cesarfelix340@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
@@ -25,7 +25,7 @@
   <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
 </p>
 
-## 💻 Ferramentas 
+## 🖥️ Ferramentas 
 ![visual studio code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) 
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) 
