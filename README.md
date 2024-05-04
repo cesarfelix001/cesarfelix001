@@ -3,7 +3,8 @@
 --- 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cesarfelix001&color=yellow" alt="Profile views" /> </p>
 
-## Sou instrutor de informática e estudante de ADS. Atualmente busco minha primeira oportunidade na área da programação.
+- Sou instrutor de informática e estudante de Análise e Desenvolvimento de Sistemas.
+- Atualmente busco minha primeira oportunidade na área da programação.
 
 <a  href="https://www.linkedin.com/in/césarfélix/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 <a href="mailto:cesarfelix340@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
