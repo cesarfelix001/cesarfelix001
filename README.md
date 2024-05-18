@@ -14,9 +14,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=cesarfelix001&theme=synthwave&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cesarfelix001&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## Ouça esta música enquanto navega pelo repositório
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3Te8uLyit6X3ncNW8Fp3K2?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ## 🧑🏽‍💻 Tecnologias que utilizo em meus projetos
 
