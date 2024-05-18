@@ -47,7 +47,7 @@
 
 ![f0f0d932d6e39c7af5aa305cbd8da735](https://github.com/cesarfelix001/cesarfelix001/assets/144870417/7085ecc7-c4d3-426d-849f-b238e5e5299c)
 
-## 💻 Sistema Operacional utilizado
+## 💻 Sistema operacional que costumo utilizar
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ![1ed23a30b178f1a848838f2f29bd9d76](https://github.com/cesarfelix001/cesarfelix001/assets/144870417/16a25d6d-b5ae-435e-87f4-7255255489ef)
